@@ -1,15 +1,10 @@
-import React from 'react';
-import {connect} from "react-redux"
+import React from "react";
+import { connect } from "react-redux";
 
-class PageError extends React.Component{
-
-    render(){
-        return(
-            <div>
-                Error page not found
-            </div>
-        )
-    }
+class PageError extends React.Component {
+  render() {
+    return <div>Error page not found</div>;
+  }
 }
 
-export default connect (null, null) (PageError);
+export default connect(null, null)(PageError);

@@ -5,7 +5,6 @@ import { push } from "connected-react-router"
 const getToken = () => localStorage.getItem("token");
 const baseUrl = 'https://us-central1-missao-newton.cloudfunctions.net/futureEats'
 
-//Síncrona
 export function setRestaurants (restaurantsFromApi) {
     return {
         type: 'SET_RESTAURANTS',
@@ -23,7 +22,6 @@ export function setRestaurantDetail (restaurantDetail) {
         }
     }
 }
-//Assíncrona
 export const getRestaurants = () => async (dispatch) => {
 
     try {
