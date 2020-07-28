@@ -4,16 +4,12 @@ FutureEats is a front-end development of an imaginary web mobile-first applicati
 
 ## Tools and technologies
 
-Environment: Node.js
 ![](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png)
 
-Libs: React.js 
 ![](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/JSLibReactJS.png)
 
-Tools: React-Redux, Axios, Connected-Router
 ![](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/tools.png)
 
-Layout: Material-UI, Styled-Components
 ![](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/layout.png)
 
 ## The app
