@@ -7,7 +7,7 @@ A food delivery app.
 
 FutureEats is a front-end development of an imaginary web-mobile-first application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Ricardo Araújo](https://github.com/araujoricardo), [Igor Delesposti](https://github.com/igordelesposti), [Mário Luz](https://github.com/MarioLuzz), [João Fonseca](https://github.com/joaopf4) and [me](https://github.com/Meira-JH). The design was made by Camila Mizutani.
 
-## Tools and technologies
+## Tools and technologies :wrench:
   
 ![Node.js environment](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png)
 
@@ -21,7 +21,7 @@ FutureEats is a front-end development of an imaginary web-mobile-first applicati
 
 ![Tests with JEST](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/jest.png)
 
-## The app
+## The app  :iphone:
 
 [Deploy]()
 
@@ -29,7 +29,7 @@ FutureEats is a front-end development of an imaginary web-mobile-first applicati
 
 ### Página de login
 <p align="center">
-<img height="500px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/printtela.png"/>
+[app gif](https://github.com/igordelesposti/futureEats)
 </p>
 
 
@@ -38,7 +38,7 @@ FutureEats is a front-end development of an imaginary web-mobile-first applicati
 <img height="500px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/printtela2.png"/>
 </p>
 
-## Running the app
+## Running the app :running:
 
 On your terminal, type:
 
@@ -56,7 +56,8 @@ Execute the application:
 npm start 
 ```
 
-## Contributing
+## Contributing :nerd_face:
+
 This was a collective effort imagined, executed and revised by Ricardo Araújo (araujoricardo), Igor Despolli (igordelesposti), Mário Luz (MarioLuzz), João Fonseca (joaopf4) and me. The design was made by Camila Mizutani.
 
 Support by:
@@ -65,5 +66,6 @@ Support by:
 <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eb17dfd4a07be86d2b8951e_Labenu_principal_slogan.png"/>
 </p>
 
-## License
+## License :page_facing_up:
+
 [MIT License](https://choosealicense.com/licenses/mit/)
