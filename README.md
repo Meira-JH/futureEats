@@ -17,7 +17,7 @@ FutureEats is a front-end development of an imaginary web mobile-first applicati
 
 ![Layout tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/layout.png)
 
-![Tests with JEST]https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/jest.png)
+![Tests with JEST](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/jest.png)
 
 ## The app
 
