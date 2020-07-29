@@ -9,6 +9,7 @@ FutureEats is a front-end development of an imaginary web mobile-first applicati
 
 ## Tools and technologies
 <p align="center">
+  
 ![Node.js environment](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png)
 
 ![Languages JS CSS HTML](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/languages.png)
