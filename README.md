@@ -3,12 +3,9 @@
 <img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/logo-future-eats-invert.png"/>
 </p>
 
-[![Sourcegraph](https://sourcegraph.com/github.com/Meira-JH/futureEats/-/badge.svg)](https://sourcegraph.com/github.com/Meira-JH/futureEats?badge)
-
 FutureEats is a front-end development of an imaginary web mobile-first application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Ricardo Araújo](https://github.com/araujoricardo), [Igor Delesposti](https://github.com/igordelesposti), [Mário Luz](https://github.com/MarioLuzz), [João Fonseca](https://github.com/joaopf4) and [me](https://github.com/Meira-JH). The design was made by Camila Mizutani.
 
 ## Tools and technologies
-<p align="center">
   
 ![Node.js environment](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png)
 
@@ -21,8 +18,6 @@ FutureEats is a front-end development of an imaginary web mobile-first applicati
 ![Layout tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/layout.png)
 
 ![Tests with JEST](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/jest.png)
-
-</p>
 
 ## The app
 
