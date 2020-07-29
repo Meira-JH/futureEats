@@ -23,13 +23,13 @@ FutureEats is a front-end development of an imaginary web mobile-first applicati
 
 [Documentation](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#70663d39-aa77-4995-91c5-673eae312916)
 
-###Página de login
+### Página de login
 <p align="center">
 <img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/printtela.png"/>
 </p>
 
 
-###Carrinho
+### Carrinho
 <p align="center">
 <img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/printtela2.png"/>
 </p>
