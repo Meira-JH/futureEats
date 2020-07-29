@@ -1,25 +1,30 @@
 # futureEats
+<p align="center">
+<img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/logo-future-eats-invert.png"/>
+</p>
 
-FutureEats is a front-end development of an imaginary web mobile-first application as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by Ricardo Araújo (araujoricardo), Igor Despolli (igordelesposti), Mário Luz (MarioLuzz), João Fonseca (joaopf4) and me. The design was made by Camila Mizutani.
+FutureEats is a front-end development of an imaginary web mobile-first application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Ricardo Araújo](https://github.com/araujoricardo), [Igor Delesposti](https://github.com/igordelesposti), [Mário Luz](https://github.com/MarioLuzz), [João Fonseca](https://github.com/joaopf4) and [me](https://github.com/Meira-JH). The design was made by Camila Mizutani.
 
 ## Tools and technologies
 
-Environment: Node.js
+![Node.js environment](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png)
 
-Libs: React.js 
+![React Lib](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/JSLibReactJS.png)
 
-Tools: React-Redux, Axios, Connected-Router
+![Dev tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/tools.png) 
 
-Layout: Material-UI, Styled-Components
+![Layout tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/layout.png)
 
 ## The app
 
-Deploy: 
+[Deploy]()
 
-Documentation: https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#70663d39-aa77-4995-91c5-673eae312916
+[Documentation](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#70663d39-aa77-4995-91c5-673eae312916)
 
-![Print screen of login page](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/loginPageFutureEats.png)
 
+<p align="center">
+<img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/loginPageFutureEats.png"/>
+</p>
 
 ## Running the app
 
@@ -42,5 +47,9 @@ npm start
 ## Contributing
 This was a collective effort imagined, executed and revised by Ricardo Araújo (araujoricardo), Igor Despolli (igordelesposti), Mário Luz (MarioLuzz), João Fonseca (joaopf4) and me. The design was made by Camila Mizutani.
 
+<p align="center">
+<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eb17dfd4a07be86d2b8951e_Labenu_principal_slogan.png"/>
+</p>
+
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
