@@ -25,7 +25,7 @@ FutureEats is a front-end development of an imaginary web mobile-first applicati
 
 ### Página de login
 <p align="center">
-<img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/printtela.png"/>
+<img height="100px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/printtela.png"/>
 </p>
 
 
