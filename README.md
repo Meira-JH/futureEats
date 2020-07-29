@@ -1,4 +1,4 @@
-# futureEats
+# futureEats :pizza:
 A food delivery app.
 
 <p align="center">
