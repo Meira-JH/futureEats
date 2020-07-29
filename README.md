@@ -9,6 +9,8 @@ FutureEats is a front-end development of an imaginary web mobile-first applicati
 
 ![Node.js environment](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png)
 
+![Languages JS CSS HTML](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/languages.png)
+
 ![React Lib](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/JSLibReactJS.png)
 
 ![Dev tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/tools.png) 
@@ -21,9 +23,15 @@ FutureEats is a front-end development of an imaginary web mobile-first applicati
 
 [Documentation](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#70663d39-aa77-4995-91c5-673eae312916)
 
-
+### Página de login
 <p align="center">
-<img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/loginPageFutureEats.png"/>
+<img height="500px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/printtela.png"/>
+</p>
+
+
+### Carrinho
+<p align="center">
+<img height="500px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/printtela2.png"/>
 </p>
 
 ## Running the app
