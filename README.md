@@ -5,14 +5,6 @@ A food delivery app.
 <img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/logo-future-eats-invert.png"/>
 </p>
 
-<p align="center">
-<img width="29px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png"/>
-<img width="29px" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png"/>
-<img width="29px" src="http://3con14.biz/code/_data/js/intro/js-logo.png"/>
-<img width="29px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png"/>
-<img width="29px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png"/>
-</p>
-
 <p  style="font-size:10px; text-align:left">
 <i>Icons by <a href="https://github.com/jalbertsr/logo-badge-images">Joan Albert</a></i>
 </p>
@@ -20,6 +12,16 @@ A food delivery app.
 FutureEats is a front-end development of an imaginary web-mobile-first application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Ricardo Araújo](https://github.com/araujoricardo), [Igor Delesposti](https://github.com/igordelesposti), [Mário Luz](https://github.com/MarioLuzz), [João Fonseca](https://github.com/joaopf4) and [me](https://github.com/Meira-JH). The design was made by Camila Mizutani.
 
 ## Tools and technologies :wrench:
+
+
+<p align="center">
+<img width="31px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png"/>
+<img width="31px" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png"/>
+<img width="31px" src="http://3con14.biz/code/_data/js/intro/js-logo.png"/>
+<img width="31px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png"/>
+<img width="31px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png"/>
+</p>
+
 
 <p>
 <img height="20px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png"/>
