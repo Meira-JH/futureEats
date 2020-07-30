@@ -27,9 +27,9 @@ FutureEats is a front-end development of an imaginary web-mobile-first applicati
 
 [Documentation](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#70663d39-aa77-4995-91c5-673eae312916)
 
-<p align="center">
+<div align="center">
 ![app functions gif](https://user-images.githubusercontent.com/56797122/88712288-d9ea6600-d0ef-11ea-94b7-943faf0e1cbc.gif)
-</p>
+</div>
 
 
 ## Running the app :running:
