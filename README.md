@@ -54,7 +54,7 @@ This was a collective effort imagined, executed and revised by Ricardo Araújo (
 Support by:
 
 <p align="center">
-<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eb17dfd4a07be86d2b8951e_Labenu_principal_slogan.png"/>
+![](https://user-images.githubusercontent.com/56797122/88712288-d9ea6600-d0ef-11ea-94b7-943faf0e1cbc.gif)
 </p>
 
 ## License :page_facing_up:
