@@ -78,6 +78,19 @@ Execute the application:
 npm start 
 ```
 
+## Code architecture :computer:
+
+This code was designed concerned with JS best practices to fit the use of react-redux and connected-router tools/libs. In order to do that, the source folder was divided in actions, components, containers, reducers and support folders (icons, imgs and style).
+
+:small_blue_diamond: **actions**: folder containing all the files with functions for communicating the application with the Redux Store;
+
+:small_blue_diamond: **components**: folder containing React components that won't be connected with Redux Store;
+
+:small_blue_diamond: **containers**: folder containing React components connected with Redux Store;
+
+:small_blue_diamond: **reducers**: folder containing configuration, logic and structure of files that compose Redux Store.
+
+
 ## Contributing :nerd_face:
 
 This was a collective effort imagined, executed and revised by Ricardo Araújo (araujoricardo), Igor Despolli (igordelesposti), Mário Luz (MarioLuzz), João Fonseca (joaopf4) and me. The design was made by Camila Mizutani.
