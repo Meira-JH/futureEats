@@ -5,7 +5,9 @@ A food delivery app.
 <img src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/logo-future-eats-invert.png"/>
 </p>
 
-[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
+<p align="center">
+<img width="50px" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png"/>
+</p>
 
 FutureEats is a front-end development of an imaginary web-mobile-first application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Ricardo Araújo](https://github.com/araujoricardo), [Igor Delesposti](https://github.com/igordelesposti), [Mário Luz](https://github.com/MarioLuzz), [João Fonseca](https://github.com/joaopf4) and [me](https://github.com/Meira-JH). The design was made by Camila Mizutani.
 
