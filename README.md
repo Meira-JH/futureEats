@@ -13,7 +13,7 @@ A food delivery app.
 <img width="29px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png"/>
 </p>
 
-<p align="left" font-size"10px">
+<p  style="font-size:10px; text-align:left">
 <i>Icons by <a href="https://github.com/jalbertsr/logo-badge-images">Joan Albert</a></i>
 </p>
 
