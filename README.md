@@ -10,7 +10,7 @@ FutureEats is a front-end development of an imaginary web-mobile-first applicati
 ## Tools and technologies :wrench:
 
 <p align="center">
-<img width="35px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-6-569582.png"/>
+<img width="35px" src="https://www.shareicon.net/data/256x256/2015/10/06/112724_development_512x512.png"/>
 <img width="35px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png"/>
 <img width="35px" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png"/>
 <img width="35px" src="http://3con14.biz/code/_data/js/intro/js-logo.png"/>
