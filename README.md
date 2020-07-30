@@ -20,22 +20,22 @@ FutureEats is a front-end development of an imaginary web-mobile-first applicati
 
 
 <p>
-<img height="20px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png"/>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png"/>
 </p>
 <p>
-<img height="20px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/languages.png"/>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/languages.png"/>
 </p>
 <p>
-<img height="20px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/JSLibReactJS.png"/>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/JSLibReactJS.png"/>
 </p>
 <p>
-<img height="20px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/tools.png"/>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/tools.png"/>
 </p>
 <p>
-<img height="20px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/layout.png"/>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/layout.png"/>
 </p>
 <p>
-<img height="20px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/jest.png"/>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/jest.png"/>
 </p>
 
 
