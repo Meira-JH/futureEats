@@ -31,7 +31,9 @@ FutureEats is a front-end development of an imaginary web-mobile-first applicati
 <img height="500px" src="https://user-images.githubusercontent.com/56797122/88712288-d9ea6600-d0ef-11ea-94b7-943faf0e1cbc.gif"/>
 </p>
 
-*This gif was created by [Igor Delesposti](https://github.com/igordelesposti)
+<p align="center" >
+  <i>This gif was created by <a href="https://github.com/igordelesposti">Igor Delesposti</a></i>
+</p>
 
 
 
