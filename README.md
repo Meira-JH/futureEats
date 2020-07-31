@@ -67,7 +67,7 @@ This was a collective effort imagined, executed and revised by [Ricardo Araújo]
 On your terminal, type:
 
 ```
-git clone 
+git clone https://github.com/Meira-JH/futureEats
 ```
 
 Install dependencies:
